@@ -1,0 +1,56 @@
+html {
+}
+
+/* https://www.google.com/url?sa=i&url=https%3A%2F%2Fnzxt.com%2F&psig=AOvVaw3QFqtiGMitpfxE9X89PBM_&ust=1695729033004000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCwj4fZxYEDFQAAAAAdAAAAABAE */
+
+/* header */
+header {
+    background-color: #010609;
+    margin-bottom: 0px !important;
+}
+header * {
+    color: #05ECF6;
+}
+
+.nav-link { 
+    color: #05ECF6;
+}
+.nav-link.active{
+    font-weight: 800;
+    color: #010609 !important;
+    background-color: #05ECF6 !important;
+}
+
+/* Body */
+body {
+    background: url("./Images/home-page-bg-computer.png") center center no-repeat;
+    color: #ffe400;
+}
+a {
+    color: #05ECF6;
+}
+
+h1{
+    color: #ffe400;
+    font-weight: bold;
+    font-size: 3rem;
+}
+h2 {
+    color: #ffe400;
+}
+
+p {
+    color: #c5c5c5;
+}
+/* Introduction Section */
+
+.layer1{
+    height: 100vh;
+    width: 100vw;
+    padding-left: 30px;
+    background-color: #01060996 !important;
+}
+
+#namePlate {
+    background-color: #010609dc !important;
+}
